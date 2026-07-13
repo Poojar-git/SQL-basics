@@ -1,0 +1,2 @@
+TRUNCATE TABLE Products;
+SELECT * FROM Products;
